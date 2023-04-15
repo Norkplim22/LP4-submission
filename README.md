@@ -1,4 +1,4 @@
-# WEBAPPS
+# EMBEDDING A MACHINE LEARNING MODEL INTO A GUI
 Sales predictor and Customer churn predictor
 
 ## Introduction
