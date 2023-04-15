@@ -43,3 +43,5 @@ Find attached a sample prediction conducted.
 In conclusion, the app will be helpful to businesses by leveraging historical trends and patterns of business data and machine learning tools to alleviate a major challenge and promote business growth.
 
 Please host the drafts and all the materials, including the final version, related to your article in this folder.
+
+https://medium.com/@cnorkplim/customer-attrition-prediction-web-app-designed-with-gradio-17ca55b7a8ff

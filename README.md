@@ -55,6 +55,14 @@ You need [`Python3`](https://www.python.org/) on your system to setup this app. 
     
       http://localhost:8501 
  
+## Project and article link
+Streamlit:
+https://github.com/Norkplim22/Apps.git
+https://medium.com/@cnorkplim/a-sales-predictor-web-app-with-an-embedded-machine-learning-model-using-streamlit-2ec676dda854
+
+Gradio:
+https://github.com/Norkplim22/Gradio-app.git
+https://medium.com/@cnorkplim/customer-attrition-prediction-web-app-designed-with-gradio-17ca55b7a8ff
 
 ## Author
 Linda Adzigbli
