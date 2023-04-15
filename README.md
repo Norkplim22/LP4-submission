@@ -1,4 +1,4 @@
-# CA-Projects-template-submission-repo
+# WEBAPPS
 Sales predictor and Customer churn predictor
 
 ## Introduction
