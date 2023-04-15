@@ -1,3 +1,7 @@
 # App
 
-Please host the drafts and all the materials (requirements.txt, python scripts, core machine learning components, etc.) related to your app in this folder.
+Gradio
+https://github.com/Norkplim22/Gradio-app.git 
+
+Streamlit
+https://github.com/Norkplim22/Apps.git 
