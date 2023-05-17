@@ -9,13 +9,13 @@ In this project, we discovered how to embed an ML model into a web app for easy 
 ![Issues](https://img.shields.io/github/issues/eaedk/streamlit-iris-app?style=for-the-badge&logo=appveyor)
 ![PR](https://img.shields.io/github/issues-pr/eaedk/streamlit-iris-app?style=for-the-badge&logo=appveyor)
 [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
+|  
 
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP4       | Streamlit-app   |  A SALES PREDICTOR WEB APP WITH AN EMBEDDED MACHINE LEARNING MODEL USING STREAMLIT | Sales predictor app
-| LP4       | Gradio-app      |  CUSTOMER ATTRITION PREDICTION WEB APP DESIGNED WITH GRADIO  | Customer churn prediction app
+| LP4       | Streamlit-app   |  [A SALES PREDICTOR WEB APP WITH AN EMBEDDED MACHINE LEARNING MODEL USING STREAMLIT](https://medium.com/@cnorkplim/a-sales-predictor-web-app-with-an-embedded-machine-learning-model-using-streamlit-2ec676dda854)   | [Sales predictor app](https://github.com/Norkplim22/Apps.git)
+| LP4       | Gradio-app      |  [CUSTOMER ATTRITION PREDICTION WEB APP DESIGNED WITH GRADIO](https://medium.com/@cnorkplim/customer-attrition-prediction-web-app-designed-with-gradio-17ca55b7a8ff)  | [Customer churn prediction app](https://github.com/Norkplim22/Gradio-app.git)
 
 ## Project Description
 Embedding machine learning models into streamlit and gradio
